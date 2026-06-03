@@ -1,6 +1,10 @@
 using System;
 namespace WindowsFormsApp1.Models
 {
+    /// <summary>
+    /// Sale Model - Encapsulation
+    /// Bill ka data store karta hai
+    /// </summary>
     public class Sale
     {
         public int      Id         { get; set; }
@@ -9,6 +13,7 @@ namespace WindowsFormsApp1.Models
         public DateTime SaleDate   { get; set; } = DateTime.Now;
     }
 
+    /// SaleItem Model - Bill ki har line ka data
     public class SaleItem
     {
         public int     Id         { get; set; }

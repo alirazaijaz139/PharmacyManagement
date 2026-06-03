@@ -48,3 +48,4 @@ C:\Users\User\Desktop\INSH ALLAH\VISUAL_PROGRAMMING\Sir_QAMR_PROJECT\Sir_QAMR_PR
 C:\Users\User\Desktop\INSH ALLAH\VISUAL_PROGRAMMING\Sir_QAMR_PROJECT\Sir_QAMR_PROJECT\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
 C:\Users\User\Desktop\INSH ALLAH\VISUAL_PROGRAMMING\Sir_QAMR_PROJECT\Sir_QAMR_PROJECT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\User\Desktop\INSH ALLAH\VISUAL_PROGRAMMING\Sir_QAMR_PROJECT\Sir_QAMR_PROJECT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\INSH ALLAH\VISUAL_PROGRAMMING\Sir_QAMR_PROJECT\Sir_QAMR_PROJECT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config

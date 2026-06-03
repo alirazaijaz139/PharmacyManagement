@@ -1,5 +1,9 @@
 namespace WindowsFormsApp1.Models
 {
+    /// <summary>
+    /// Customer Model - Encapsulation
+    /// Customer ka data store karta hai
+    /// </summary>
     public class Customer
     {
         public int    Id       { get; set; }

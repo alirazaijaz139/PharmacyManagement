@@ -105,7 +105,7 @@
             this.pnlInput.Location = new System.Drawing.Point(0, 0);
             this.pnlInput.Name = "pnlInput";
             this.pnlInput.Padding = new System.Windows.Forms.Padding(10);
-            this.pnlInput.Size = new System.Drawing.Size(1819, 234);
+            this.pnlInput.Size = new System.Drawing.Size(1759, 234);
             this.pnlInput.TabIndex = 1;
             // 
             // label1
@@ -240,7 +240,7 @@
             this.pnlButtons.Dock = System.Windows.Forms.DockStyle.Top;
             this.pnlButtons.Location = new System.Drawing.Point(0, 234);
             this.pnlButtons.Name = "pnlButtons";
-            this.pnlButtons.Size = new System.Drawing.Size(1819, 89);
+            this.pnlButtons.Size = new System.Drawing.Size(1759, 89);
             this.pnlButtons.TabIndex = 7;
             // 
             // btnClear
@@ -248,7 +248,7 @@
             this.btnClear.BackColor = System.Drawing.Color.Gray;
             this.btnClear.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnClear.ForeColor = System.Drawing.Color.White;
-            this.btnClear.Location = new System.Drawing.Point(1510, 6);
+            this.btnClear.Location = new System.Drawing.Point(1364, 5);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(306, 77);
             this.btnClear.TabIndex = 3;
@@ -261,9 +261,9 @@
             this.btnDelete.BackColor = System.Drawing.Color.Crimson;
             this.btnDelete.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDelete.ForeColor = System.Drawing.Color.White;
-            this.btnDelete.Location = new System.Drawing.Point(1078, 6);
+            this.btnDelete.Location = new System.Drawing.Point(949, 3);
             this.btnDelete.Name = "btnDelete";
-            this.btnDelete.Size = new System.Drawing.Size(407, 80);
+            this.btnDelete.Size = new System.Drawing.Size(391, 80);
             this.btnDelete.TabIndex = 2;
             this.btnDelete.Text = "Delete";
             this.btnDelete.UseVisualStyleBackColor = false;
@@ -274,9 +274,9 @@
             this.btnUpdate.BackColor = System.Drawing.Color.SteelBlue;
             this.btnUpdate.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnUpdate.ForeColor = System.Drawing.Color.White;
-            this.btnUpdate.Location = new System.Drawing.Point(506, 6);
+            this.btnUpdate.Location = new System.Drawing.Point(467, 4);
             this.btnUpdate.Name = "btnUpdate";
-            this.btnUpdate.Size = new System.Drawing.Size(535, 80);
+            this.btnUpdate.Size = new System.Drawing.Size(458, 80);
             this.btnUpdate.TabIndex = 1;
             this.btnUpdate.Text = "✏️ Update";
             this.btnUpdate.UseVisualStyleBackColor = false;
@@ -303,7 +303,7 @@
             this.pnlSearch.Dock = System.Windows.Forms.DockStyle.Top;
             this.pnlSearch.Location = new System.Drawing.Point(0, 323);
             this.pnlSearch.Name = "pnlSearch";
-            this.pnlSearch.Size = new System.Drawing.Size(1819, 86);
+            this.pnlSearch.Size = new System.Drawing.Size(1759, 86);
             this.pnlSearch.TabIndex = 4;
             // 
             // txtSearch
@@ -344,7 +344,7 @@
             this.dgvCustomers.RowHeadersWidth = 62;
             this.dgvCustomers.RowTemplate.Height = 28;
             this.dgvCustomers.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvCustomers.Size = new System.Drawing.Size(1819, 394);
+            this.dgvCustomers.Size = new System.Drawing.Size(1759, 397);
             this.dgvCustomers.TabIndex = 9;
             this.dgvCustomers.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvCustomers_CellContentClick);
             // 
@@ -374,7 +374,7 @@
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.splitContainer1);
             this.Name = "CustomerControl";
-            this.Size = new System.Drawing.Size(1819, 803);
+            this.Size = new System.Drawing.Size(1759, 806);
             this.pnlInput.ResumeLayout(false);
             this.pnlInput.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

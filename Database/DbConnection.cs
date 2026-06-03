@@ -8,7 +8,7 @@ namespace WindowsFormsApp1.Database
     /// </summary>
     public static class DbConnection
     {
-        // ✅ Apna MySQL password yahan update karo
+        // ✅ Apna MySQL password yahan update karo and server
         private static string _connectionString =
             "server=localhost;" +
             "user=root;" +

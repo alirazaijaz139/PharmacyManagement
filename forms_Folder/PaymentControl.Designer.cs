@@ -101,7 +101,7 @@
             this.dgvPayments.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.dgvPayments.RowHeadersWidth = 62;
             this.dgvPayments.RowTemplate.Height = 28;
-            this.dgvPayments.Size = new System.Drawing.Size(1620, 594);
+            this.dgvPayments.Size = new System.Drawing.Size(1608, 594);
             this.dgvPayments.TabIndex = 4;
             // 
             // id
@@ -189,7 +189,7 @@
             this.pictureBox1.Image = global::WindowsFormsApp1.Properties.Resources.c22d2ed92caf835caf700134eec0c33d;
             this.pictureBox1.Location = new System.Drawing.Point(661, 3);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(1124, 291);
+            this.pictureBox1.Size = new System.Drawing.Size(953, 291);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 14;
             this.pictureBox1.TabStop = false;

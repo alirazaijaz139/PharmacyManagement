@@ -173,7 +173,7 @@
             this.dgvBill.RowHeadersWidth = 62;
             this.dgvBill.RowTemplate.Height = 28;
             this.dgvBill.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvBill.Size = new System.Drawing.Size(1830, 509);
+            this.dgvBill.Size = new System.Drawing.Size(1731, 532);
             this.dgvBill.TabIndex = 10;
             // 
             // ID
@@ -258,9 +258,9 @@
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.AliceBlue;
             this.pictureBox1.Image = global::WindowsFormsApp1.Properties.Resources.c8bf1aa01109f8dca42912b80d75e8e8__1_;
-            this.pictureBox1.Location = new System.Drawing.Point(868, 3);
+            this.pictureBox1.Location = new System.Drawing.Point(800, 3);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(947, 344);
+            this.pictureBox1.Size = new System.Drawing.Size(910, 344);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 14;
             this.pictureBox1.TabStop = false;
@@ -284,7 +284,7 @@
             this.Controls.Add(this.cmbCustomer);
             this.Controls.Add(this.cmbMedicine);
             this.Name = "BillingForm";
-            this.Size = new System.Drawing.Size(1818, 933);
+            this.Size = new System.Drawing.Size(1737, 933);
             this.Load += new System.EventHandler(this.BillingForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvBill)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

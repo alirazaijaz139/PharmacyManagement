@@ -4,11 +4,12 @@ using System.Data;
 namespace WindowsFormsApp1.Database
 {
     /// <summary>
-    /// Base class for all Repositories
-    /// Sab repositories is class se inherit karengi
+    /// Base class for all repositories - Implements Inheritance
+    /// All repositories inherit common database methods from this class
     /// </summary>
     public abstract class BaseRepository
     {
+        // Polymorphism - virtual methods can be overridden by child classes
         public virtual string GetTableName()
         {
             return string.Empty;
@@ -28,6 +29,9 @@ namespace WindowsFormsApp1.Database
         /// INSERT, UPDATE, DELETE ke liye
         /// Returns: affected rows ka count
         /// </summary>
+        /// /// <summary>
+        /// Returns data from database as DataTable
+        /// </summary>//used for the update delete or insertion
         protected int ExecuteNonQuery(string sql, MySqlParameter[] parameters = null)
         {
             using (MySqlConnection con = GetConnection())

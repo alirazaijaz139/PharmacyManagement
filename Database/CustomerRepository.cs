@@ -8,9 +8,13 @@ namespace WindowsFormsApp1.Database
 {
     /// <summary>
     /// Customers table ke liye saari DB operations
+    ///  Inheritance from BaseRepository
+    /// Implements IRepository interface - Abstraction
+    /// Polymorphism - GetTableName() override kiya hai
     /// </summary>
     public class CustomerRepository : BaseRepository, IRepository<Customer>
     {
+        // Polymorphism - BaseRepository ka virtual method override kiya
         public override string GetTableName()
         {
             return "customers";
@@ -20,7 +24,7 @@ namespace WindowsFormsApp1.Database
         {
             return "name";
         }
-        // ✅ Sab customers laao
+        /// Saare customers database se laata hai
         public DataTable GetAll()
         {
             return ExecuteQuery("SELECT * FROM customers");
@@ -32,7 +36,7 @@ namespace WindowsFormsApp1.Database
             return ExecuteQuery("SELECT id, name FROM customers");
         }
 
-        // ✅ Customer add karo
+        // ✅  new Customer add karo
         public int Add(Customer c)
         {
             string sql = "INSERT INTO customers (name, account, phone, address, shop_name) " +

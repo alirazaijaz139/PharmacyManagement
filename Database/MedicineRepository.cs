@@ -8,9 +8,13 @@ namespace WindowsFormsApp1.Database
 {
     /// <summary>
     /// Medicines table ke liye saari DB operations
+    /// Inheritance from BaseRepository
+    /// Implements IRepository interface - Abstraction
+    /// Polymorphism - GetTableName() override kiya hai
     /// </summary>
     public class MedicineRepository : BaseRepository, IRepository<Medicine>
     {
+        // Polymorphism - BaseRepository ka virtual method override kiya
         public override string GetTableName()
         {
             return "medicines";
@@ -20,7 +24,7 @@ namespace WindowsFormsApp1.Database
         {
             return "name";
         }
-        // ✅ Sab medicines laao
+        // ✅ Sab medicines laao database say
         public DataTable GetAll()
         {
             string sql = "SELECT * FROM medicines";
@@ -37,7 +41,7 @@ namespace WindowsFormsApp1.Database
             });
         }
 
-        // ✅ Medicine add karo
+        // ✅  new Medicine add karo
         public int Add(Medicine m)
         {
             string sql = "INSERT INTO medicines (name, company, price, qty) VALUES (@name, @company, @price, @qty)";
