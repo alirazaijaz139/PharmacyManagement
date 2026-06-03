@@ -8,7 +8,7 @@ namespace WindowsFormsApp1.Validators
     /// </summary>
     public class CustomerValidator
     {
-        /// Returns: null = valid, string = error message
+        /// Returns null = valid, string = error message
         public string Validate(Customer c)
         {
             // Name zaroori hai
