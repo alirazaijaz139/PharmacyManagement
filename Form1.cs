@@ -48,7 +48,7 @@ namespace WindowsFormsApp1
         }
 
 
-        /// Forgot Password link click - ForgotPasswordForm kholta hai
+        // Forgot Password link click - ForgotPasswordForm kholta hai
 
         private void lnkForgotPassword_Click(object sender, EventArgs e)
         {
