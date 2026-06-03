@@ -16,7 +16,7 @@ namespace WindowsFormsApp1.Interfaces
         int Add(T entity);
         // Existing record update karo
         int Update(T entity);
-        // Record delete karo ID se
+        // Record delete karo ID 
         int Delete(int id);
     }
 }
