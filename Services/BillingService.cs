@@ -16,7 +16,7 @@ namespace WindowsFormsApp1.Services
         /// <summary>
         /// Bill save karta hai - Validation check karta hai phir SalesRepository se save karta hai
         /// Returns: null = success, string = error message
-        /// </summary>
+        ///</summary>
         public string SaveBill(int customerId, decimal total, List<SaleItem> items)
         {
             // Step 1 - Validation check
