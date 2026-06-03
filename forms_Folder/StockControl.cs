@@ -96,7 +96,7 @@ namespace WindowsFormsApp1.forms_Folder
             }
         }
 
-
+        //ADD STOCK
 
         private void btnAddStock_Click(object sender, EventArgs e)
         {
