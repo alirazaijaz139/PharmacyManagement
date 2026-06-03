@@ -42,6 +42,7 @@
             this.panel2 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -173,7 +174,7 @@
             this.panel1.ForeColor = System.Drawing.Color.MidnightBlue;
             this.panel1.Location = new System.Drawing.Point(57, 80);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(335, 110);
+            this.panel1.Size = new System.Drawing.Size(272, 110);
             this.panel1.TabIndex = 14;
             // 
             // panel2
@@ -196,9 +197,9 @@
             this.panel3.Controls.Add(this.lblTodaySales);
             this.panel3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.panel3.ForeColor = System.Drawing.Color.MidnightBlue;
-            this.panel3.Location = new System.Drawing.Point(836, 80);
+            this.panel3.Location = new System.Drawing.Point(684, 80);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(319, 111);
+            this.panel3.Size = new System.Drawing.Size(273, 111);
             this.panel3.TabIndex = 16;
             // 
             // panel4
@@ -209,16 +210,28 @@
             this.panel4.Controls.Add(this.lblTotalPayments);
             this.panel4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.panel4.ForeColor = System.Drawing.Color.MidnightBlue;
-            this.panel4.Location = new System.Drawing.Point(430, 79);
+            this.panel4.Location = new System.Drawing.Point(361, 79);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(350, 111);
+            this.panel4.Size = new System.Drawing.Size(278, 111);
             this.panel4.TabIndex = 16;
+            // 
+            // button1
+            // 
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(993, 79);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(155, 90);
+            this.button1.TabIndex = 17;
+            this.button1.Text = "Reset Total";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // ReportsControl
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
@@ -257,5 +270,6 @@
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Panel panel4;
+        private System.Windows.Forms.Button button1;
     }
 }

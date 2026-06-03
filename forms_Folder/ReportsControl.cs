@@ -51,9 +51,19 @@ namespace WindowsFormsApp1.forms_Folder
             lblTopMedicine.Text = _repo.GetTopMedicine();
         }
 
-        // 🔹 Top Medicine
-      
-        
+        private void button1_Click(object sender, EventArgs e)
+        {
+           
+
+            lblTotalSales.Text = "0.00";
+            lblTotalPayments.Text = "0.00";
+            lblTodaySales.Text = "0.00";
+
         }
+
+        
+
+
+    }
     }
 

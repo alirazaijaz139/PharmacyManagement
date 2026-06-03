@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_folder\\reportscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:forms_folder\\reportscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_folder\\reportscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:forms_folder\\reportscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_folder\\stockcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:forms_folder\\stockcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,32 +23,51 @@
       "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|c:\\users\\user\\desktop\\insh allah\\visual_programming\\sir_qamr_project\\sir_qamr_project\\windowsformsapp1\\forms_folder\\billingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_folder\\stockcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:forms_folder\\stockcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_folder\\billingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:forms_folder\\billingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_folder\\stockcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:forms_folder\\stockcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\validators\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:validators\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_folder\\medicinecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:forms_folder\\medicinecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\services\\billingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:services\\billingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\interfaces\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:interfaces\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\database\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:database\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|c:\\users\\user\\desktop\\insh allah\\visual_programming\\sir_qamr_project\\sir_qamr_project\\windowsformsapp1\\forms_folder\\paymentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:forms_folder\\paymentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\PharmacyOOP_Complete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_folder\\customercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:forms_folder\\customercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_folder\\medicinecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:forms_folder\\medicinecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_folder\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:forms_folder\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_folder\\paymentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:forms_folder\\paymentcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_folder\\reportscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:forms_folder\\reportscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,24 +82,12 @@
       "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\interfaces\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:interfaces\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\interfaces\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:interfaces\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\validators\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:validators\\customervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\validators\\medicinevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,16 +102,8 @@
       "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\services\\billingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:services\\billingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\database\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:database\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\database\\medicinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -127,10 +138,6 @@
       "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:forms_folder\\customercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_folder\\stockcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:forms_folder\\stockcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_folder\\medicinecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:forms_folder\\medicinecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -153,10 +160,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\database\\reportsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:database\\reportsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_folder\\reportscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|solutionrelative:forms_folder\\reportscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99A76CB2-BC4A-44C6-8483-95B7E85C98C0}|WindowsFormsApp1.csproj|C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\database\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -225,51 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StockControl.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\StockControl.cs",
-              "RelativeDocumentMoniker": "forms_Folder\\StockControl.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\StockControl.cs [Design]",
-              "RelativeToolTip": "forms_Folder\\StockControl.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T06:57:12.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PaymentControl.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\PaymentControl.cs",
-              "RelativeDocumentMoniker": "forms_Folder\\PaymentControl.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\PaymentControl.cs [Design]",
-              "RelativeToolTip": "forms_Folder\\PaymentControl.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T21:49:28.784Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AdminForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\AdminForm.cs",
-              "RelativeDocumentMoniker": "forms_Folder\\AdminForm.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\AdminForm.cs [Design]",
-              "RelativeToolTip": "forms_Folder\\AdminForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T15:15:37.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MedicineControl.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\MedicineControl.cs",
-              "RelativeDocumentMoniker": "forms_Folder\\MedicineControl.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\MedicineControl.cs [Design]",
-              "RelativeToolTip": "forms_Folder\\MedicineControl.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T14:35:30.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "BillingForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\BillingForm.cs",
               "RelativeDocumentMoniker": "forms_Folder\\BillingForm.cs",
@@ -281,7 +240,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "StockControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\StockControl.cs",
+              "RelativeDocumentMoniker": "forms_Folder\\StockControl.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\StockControl.cs [Design]",
+              "RelativeToolTip": "forms_Folder\\StockControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:57:12.273Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockControl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\StockControl.cs",
+              "RelativeDocumentMoniker": "forms_Folder\\StockControl.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\StockControl.cs",
+              "RelativeToolTip": "forms_Folder\\StockControl.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwGIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:03:49.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -293,20 +277,122 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBQAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T15:46:51.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "ReportsControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\ReportsControl.cs",
+              "RelativeDocumentMoniker": "forms_Folder\\ReportsControl.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\ReportsControl.cs [Design]",
+              "RelativeToolTip": "forms_Folder\\ReportsControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T10:14:39.731Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportsControl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\ReportsControl.cs",
+              "RelativeDocumentMoniker": "forms_Folder\\ReportsControl.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\ReportsControl.cs",
+              "RelativeToolTip": "forms_Folder\\ReportsControl.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwC0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T10:30:01.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Validators\\CustomerValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\CustomerValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Validators\\CustomerValidator.cs",
+              "RelativeToolTip": "Validators\\CustomerValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:11:39.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BillingService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Services\\BillingService.cs",
+              "RelativeDocumentMoniker": "Services\\BillingService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Services\\BillingService.cs",
+              "RelativeToolTip": "Services\\BillingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:13:52.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T05:20:55.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Interfaces\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Interfaces\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Interfaces\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:00:42.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Database\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Database\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Database\\BaseRepository.cs",
+              "RelativeToolTip": "Database\\BaseRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:06:27.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\PaymentControl.cs",
+              "RelativeDocumentMoniker": "forms_Folder\\PaymentControl.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\PaymentControl.cs [Design]",
+              "RelativeToolTip": "forms_Folder\\PaymentControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T21:49:28.784Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "CustomerControl.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\CustomerControl.cs",
               "RelativeDocumentMoniker": "forms_Folder\\CustomerControl.cs",
@@ -317,18 +403,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ReportsControl.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\ReportsControl.cs",
-              "RelativeDocumentMoniker": "forms_Folder\\ReportsControl.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\ReportsControl.cs [Design]",
-              "RelativeToolTip": "forms_Folder\\ReportsControl.cs [Design]",
+              "DocumentIndex": 15,
+              "Title": "MedicineControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\MedicineControl.cs",
+              "RelativeDocumentMoniker": "forms_Folder\\MedicineControl.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\MedicineControl.cs [Design]",
+              "RelativeToolTip": "forms_Folder\\MedicineControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T10:14:39.731Z"
+              "WhenOpened": "2026-05-06T14:35:30.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\AdminForm.cs",
+              "RelativeDocumentMoniker": "forms_Folder\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\AdminForm.cs [Design]",
+              "RelativeToolTip": "forms_Folder\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T15:15:37.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PharmacyOOP_Complete.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\PharmacyOOP_Complete.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Downloads\\PharmacyOOP_Complete.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\PharmacyOOP_Complete.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\PharmacyOOP_Complete.cs",
+              "ViewState": "AgIAAPwDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T12:18:44.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Medicine.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Models\\Medicine.cs",
               "RelativeDocumentMoniker": "Models\\Medicine.cs",
@@ -340,19 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CustomerValidator.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Validators\\CustomerValidator.cs",
-              "RelativeDocumentMoniker": "Validators\\CustomerValidator.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Validators\\CustomerValidator.cs",
-              "RelativeToolTip": "Validators\\CustomerValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T19:11:39.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "MedicineValidator.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Validators\\MedicineValidator.cs",
               "RelativeDocumentMoniker": "Validators\\MedicineValidator.cs",
@@ -364,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "LoginValidator.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Validators\\LoginValidator.cs",
               "RelativeDocumentMoniker": "Validators\\LoginValidator.cs",
@@ -376,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "StockService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Services\\StockService.cs",
               "RelativeDocumentMoniker": "Services\\StockService.cs",
@@ -388,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "Models\\Payment.cs",
@@ -400,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -412,19 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Models\\Customer.cs",
-              "RelativeToolTip": "Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T05:20:55.029Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "Sale.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Models\\Sale.cs",
               "RelativeDocumentMoniker": "Models\\Sale.cs",
@@ -436,19 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Interfaces\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Interfaces\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "Interfaces\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T19:00:42.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Interfaces\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\Interfaces\\IUserRepository.cs",
@@ -460,19 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "BillingService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Services\\BillingService.cs",
-              "RelativeDocumentMoniker": "Services\\BillingService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Services\\BillingService.cs",
-              "RelativeToolTip": "Services\\BillingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T19:13:52.658Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "LoginService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Services\\LoginService.cs",
               "RelativeDocumentMoniker": "Services\\LoginService.cs",
@@ -484,19 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Database\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "Database\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Database\\BaseRepository.cs",
-              "RelativeToolTip": "Database\\BaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T19:06:27.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "MedicineRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Database\\MedicineRepository.cs",
               "RelativeDocumentMoniker": "Database\\MedicineRepository.cs",
@@ -508,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Database\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "Database\\CustomerRepository.cs",
@@ -520,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Database\\UserRepository.cs",
               "RelativeDocumentMoniker": "Database\\UserRepository.cs",
@@ -532,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "DbConnection.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Database\\DbConnection.cs",
               "RelativeDocumentMoniker": "Database\\DbConnection.cs",
@@ -544,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "DEPLOYMENT.md",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\DEPLOYMENT.md",
               "RelativeDocumentMoniker": "DEPLOYMENT.md",
@@ -556,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "BillingForm.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\BillingForm.cs",
               "RelativeDocumentMoniker": "forms_Folder\\BillingForm.cs",
@@ -564,23 +613,12 @@
               "RelativeToolTip": "forms_Folder\\BillingForm.cs",
               "ViewState": "AgIAAHkAAAAAAAAAAAAUwJUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T15:38:00.514Z"
+              "WhenOpened": "2026-05-07T15:38:00.514Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "StockControl.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\StockControl.cs",
-              "RelativeDocumentMoniker": "forms_Folder\\StockControl.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\StockControl.cs",
-              "RelativeToolTip": "forms_Folder\\StockControl.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAwwHkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T07:03:49.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "MedicineControl.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\MedicineControl.cs",
               "RelativeDocumentMoniker": "forms_Folder\\MedicineControl.cs",
@@ -592,7 +630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "REPOSITORY.txt",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\REPOSITORY.txt",
               "RelativeDocumentMoniker": "REPOSITORY.txt",
@@ -604,7 +642,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "CustomerControl.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\CustomerControl.cs",
               "RelativeDocumentMoniker": "forms_Folder\\CustomerControl.cs",
@@ -616,7 +654,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "PaymentControl.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\PaymentControl.cs",
               "RelativeDocumentMoniker": "forms_Folder\\PaymentControl.cs",
@@ -628,7 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "AdminForm.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\AdminForm.cs",
               "RelativeDocumentMoniker": "forms_Folder\\AdminForm.cs",
@@ -640,7 +678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "UserForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\UserForm.cs",
               "RelativeDocumentMoniker": "forms_Folder\\UserForm.cs",
@@ -651,7 +689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "ReportsRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Database\\ReportsRepository.cs",
               "RelativeDocumentMoniker": "Database\\ReportsRepository.cs",
@@ -663,7 +701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "StockRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Database\\StockRepository.cs",
               "RelativeDocumentMoniker": "Database\\StockRepository.cs",
@@ -675,19 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "ReportsControl.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\ReportsControl.cs",
-              "RelativeDocumentMoniker": "forms_Folder\\ReportsControl.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\ReportsControl.cs",
-              "RelativeToolTip": "forms_Folder\\ReportsControl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T10:30:01.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "ForgotPasswordForm.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\ForgotPasswordForm.cs",
               "RelativeDocumentMoniker": "forms_Folder\\ForgotPasswordForm.cs",
@@ -699,7 +725,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "ForgotPasswordForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\ForgotPasswordForm.cs",
               "RelativeDocumentMoniker": "forms_Folder\\ForgotPasswordForm.cs",
@@ -710,7 +736,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "PaymentRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Database\\PaymentRepository.cs",
               "RelativeDocumentMoniker": "Database\\PaymentRepository.cs",
@@ -722,7 +748,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "Medicine.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\Model\\Medicine.cs",
               "RelativeDocumentMoniker": "..\\..\\WindowsFormsApp1\\Model\\Medicine.cs",
@@ -733,7 +759,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "UserForm.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\UserForm.cs",
               "RelativeDocumentMoniker": "forms_Folder\\UserForm.cs",
@@ -745,7 +771,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "MedicineControl.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\MedicineControl.Designer.cs",
               "RelativeDocumentMoniker": "forms_Folder\\MedicineControl.Designer.cs",
@@ -757,7 +783,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "UserForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\UserForm.Designer.cs",
               "RelativeDocumentMoniker": "forms_Folder\\UserForm.Designer.cs",
@@ -769,7 +795,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "StockControl.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\StockControl.Designer.cs",
               "RelativeDocumentMoniker": "forms_Folder\\StockControl.Designer.cs",
@@ -777,11 +803,12 @@
               "RelativeToolTip": "forms_Folder\\StockControl.Designer.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAApwFkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T07:20:02.975Z"
+              "WhenOpened": "2026-05-08T07:20:02.975Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "BillingForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\BillingForm.Designer.cs",
               "RelativeDocumentMoniker": "forms_Folder\\BillingForm.Designer.cs",
@@ -789,11 +816,12 @@
               "RelativeToolTip": "forms_Folder\\BillingForm.Designer.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAA1wPsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T16:15:08.151Z"
+              "WhenOpened": "2026-05-07T16:15:08.151Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "AdminForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\AdminForm.Designer.cs",
               "RelativeDocumentMoniker": "forms_Folder\\AdminForm.Designer.cs",
@@ -805,7 +833,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "CustomerControl.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\INSH ALLAH\\VISUAL_PROGRAMMING\\Sir_QAMR_PROJECT\\Sir_QAMR_PROJECT\\WindowsFormsApp1\\forms_Folder\\CustomerControl.Designer.cs",
               "RelativeDocumentMoniker": "forms_Folder\\CustomerControl.Designer.cs",
