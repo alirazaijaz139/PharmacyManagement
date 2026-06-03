@@ -2,7 +2,7 @@ namespace WindowsFormsApp1.Models
 {
     /// <summary>
     /// Customer Model - Encapsulation
-    /// Customer ka data store karta hai
+    /// Customer ka data store karta ha
     /// </summary>
     public class Customer
     {
