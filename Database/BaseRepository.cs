@@ -19,7 +19,7 @@ namespace WindowsFormsApp1.Database
         {
             return string.Empty;
         }
-        //
+        //DATABASE CONNECTION
         protected MySqlConnection GetConnection()
         {
             return DbConnection.GetConnection();
